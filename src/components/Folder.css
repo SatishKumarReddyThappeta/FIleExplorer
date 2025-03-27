@@ -1,0 +1,56 @@
+/* *{
+    margin: 0;
+    user-select: none;
+}
+.main-container{
+    margin-left: 5px;
+}
+.folder{
+    cursor: pointer;
+    margin-top: 3px;
+    display: flex;
+    justify-content: space-between;
+    width:300px;
+    padding: 3px;
+}
+.folder > span{
+    margin: 0 5px 2px 0;
+    text-align: center;
+}
+.file{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    padding-left: 5px;
+}
+.inputContainer{
+    display: flex;
+    align-items: center;
+    gap:5px;
+}
+.inputContainer > span{
+    margin-top: 5px;
+}
+.InputContainer_input{
+    margin: 6px 0 0px 0;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border: 1px solid lightgray
+}
+.onlyFile{
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-top: 5px;
+    gap:10px
+    
+}
+.deleteCursor{
+    cursor: pointer;
+}
+ */
